@@ -19,5 +19,17 @@
   },
   "engines": {
     "node": "8.9.4"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzugumi/herokutest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/suzugumi/herokutest/issues"
+  },
+  "homepage": "https://github.com/suzugumi/herokutest#readme"
 }
