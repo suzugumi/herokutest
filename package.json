@@ -1,5 +1,5 @@
 {
-  "name": "secret-board",
+  "name": "herokutest",
   "version": "1.0.0",
   "description": "秘密の匿名掲示板",
   "main": "index.js",
